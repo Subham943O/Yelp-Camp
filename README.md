@@ -33,7 +33,7 @@ https://yelp-camp-krish.onrender.com/
 ## Getting Started
 ### Clone or download this repository
 ```
-git clone https://github.com/prakalpshakya31/Yelp-Camp.git
+git clone https://github.com/Subham943O/Yelp-Camp.git
 ```
 ### Get mongoDB
 ```
