@@ -72,7 +72,7 @@ Then go to localhost:3000
 
 ## Authors
 
-- [Krish Kumar](https://github.com/KrishKumar3004)
+- [Shubham Kumar](https://github.com/Subham943O)
 
 ## Acknowledgments
 
